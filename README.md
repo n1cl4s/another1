@@ -24,3 +24,16 @@ Här använde jag olika markdowns för att kunna enkelt formatera texten med rub
 - git push
 
 *Laddar upp aktuell branch/gren till GitHub.*
+
+<br>
+<br>
+
+
+## Repository
+En repository är en projektmapp där källkod och historik av olika versioner av en kod sparas. Flera personer kan arbeta på samma repository och skicka upp deras version eller hämta ner någon annans.
+<br>
+## Versionshistorik
+Versionshistorik är olika versioner av olika grenar av källkoden. Så man kan navigera mellan olika delar i koden utan att påverka hela koden. Olika programmerare kan också arbeta med olika delar av samma kod och skicka upp dom till GitHub. Den visar hur en kod har utvecklats steg för steg via olika commits.
+
+## Commit
+Det är när du gör en ändring du är nöjd med så gör du en **"commit"** så att den sparas i historiken med en kommentar. Det skickar du sedan upp med kommandot *git push* om allt går rätt till.
