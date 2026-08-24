@@ -1,0 +1,30 @@
+niclas@Niclas MINGW64 ~
+$ pwd						// Lokalisera i vilken mapp jag är i
+/c/Users/nicla
+
+niclas@Niclas MINGW64 ~
+$ mkdir MAI26 					// Skapar mappen "MAI26"
+
+niclas@Niclas MINGW64 ~
+$ cd MAI26					// Byter mappen där jag är till "MAI26"
+
+niclas@Niclas MINGW64 ~/MAI26
+$ mkdir verktyg					// Skapar mappen "verktyg" i mappen "MAI26"
+
+niclas@Niclas MINGW64 ~/MAI26
+$ cd verktyg					// Byter till mappen "verktyg"
+
+niclas@Niclas MINGW64 ~/MAI26/verktyg
+$ touch mina-bash-kommandon.txt			// skapar filen "mina-bash-kommandon.txt"
+
+niclas@Niclas MINGW64 ~/MAI26/verktyg
+$ ls						// Kollar så att filen har skapats i mappen
+mina-bash-kommandon.txt
+
+niclas@Niclas MINGW64 ~/MAI26/verktyg
+$ code .					// öppnar mappen i VS Code
+
+niclas@Niclas MINGW64 ~/MAI26/verktyg
+$ code mina-bash-kommandon.txt			// öppnar filen mina-bash-kommandon.txt
+
+
