@@ -5,6 +5,6 @@ Där lagras all kod och all historik på de commits som har gjorts från alla ko
 
 Fördelarna är
 * Tydlig struktur på historiken av förändringar i koden
-* Programmerare kan jobba remote var som helst med samma kod, så länge där uppkopplade.
+* Programmerare kan jobba remote med samma kod, så länge där uppkopplade
 * Nya kollegor eller andra som vill kolla eller ändra koden kan bjudas in
-* Lätt versionshantera olika delar av koden 
+* Lätt att versionshantera olika delar av koden 
