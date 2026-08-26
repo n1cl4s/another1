@@ -10,21 +10,27 @@ Här använde jag olika markdowns för att kunna enkelt formatera texten med rub
 
 ### Kommandon jag använde i gitbash
 - git init
+
 *Skapar ett respository*
 
 - git branch -m "main"
-*Namnger en branch till "main". Huvuddelen av mitt projekt.Ä
+
+*Namnger en branch till "main". Huvuddelen av mitt projekt.*
 
 - git add README.md
+
 *Lägger till ändringen i filen till nästa commit*
 
 - git commit -m "add README"
+
 *Sparar dina ändringar och lägger till en kommentar som är valfri.*
 
 - git status
+
 *Kollar status på hur det ligger till med filändringar.* 
 
 - git push
+
 *Laddar upp aktuell branch/gren till GitHub.*
 
 <br>
